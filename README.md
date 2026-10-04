@@ -4,4 +4,4 @@
 DevOps Learning Project
 
 ## Description
-This is the initial description of the project.
+This project focuses on automated deployments and CI/CD pipeline integration.
