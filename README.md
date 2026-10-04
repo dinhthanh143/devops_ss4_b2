@@ -4,4 +4,4 @@
 DevOps Learning Project
 
 ## Description
-This is the initial description of the project.
+This project focuses on Docker containerization and Kubernetes orchestration.
